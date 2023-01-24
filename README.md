@@ -18,9 +18,11 @@
 Код находится в файле: project_e_commerce.ipynb
 
 
-Разбивка недоставленных заказов по причинам
+#### Разбивка недоставленных заказов по причинам
+
 ![image](https://user-images.githubusercontent.com/50587728/214385828-5db70aff-33a2-46f2-a206-63d818e2a5c7.png)
 
-График Retention в рамках RFM-анализа
+#### График Retention в рамках RFM-анализа
+
 ![image](https://user-images.githubusercontent.com/50587728/214385669-8f2d07d1-aea8-4745-bde6-57d247b617fb.png)
 
